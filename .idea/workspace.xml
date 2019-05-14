@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d440e6c5-43d8-47a3-80c2-8e3d1dc2970e" name="Default" comment="" />
+    <list default="true" id="d440e6c5-43d8-47a3-80c2-8e3d1dc2970e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/config/models/transformer3p3.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/models/transformer3p3.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +58,11 @@
       <file leaf-file-name="transformer_shared_embedding.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/models/transformer_shared_embedding.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="54">
+              <caret line="5" selection-start-line="5" selection-end-line="20" selection-end-column="62" />
+              <folding>
+                <element signature="e#71#94#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,8 +70,11 @@
       <file leaf-file-name="transformer3p3.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/models/transformer3p3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="432">
+              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,7 +135,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>--codes</find>
       <find>--in</find>
       <find>--input</find>
       <find>vocabulary_file_key</find>
@@ -157,6 +164,7 @@
       <find>estimator_util</find>
       <find>input</find>
       <find>config</find>
+      <find>mbeddingsSharingLevel.NONE</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -173,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-288" />
     <option name="y" value="335" />
     <option name="width" value="1932" />
@@ -803,13 +811,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/models/transformer_shared_embedding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/opennmt/models/catalog.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -820,10 +821,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/models/transformer_shared_embedding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" selection-start-line="5" selection-end-line="20" selection-end-column="62" />
+          <folding>
+            <element signature="e#71#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/models/transformer3p3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="432">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
