@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d440e6c5-43d8-47a3-80c2-8e3d1dc2970e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/config/models/transformer3p3.py" afterDir="false" />
-    </list>
+    <list default="true" id="d440e6c5-43d8-47a3-80c2-8e3d1dc2970e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
